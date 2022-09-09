@@ -1,0 +1,4 @@
+*.sql
+*.pdf
+__pycache__/
+conector.py
